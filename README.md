@@ -1,3 +1,3 @@
 # Spring Boot Recipe Application
 
-Simple change to trigger Cicle CI
+Another simple change to trigger Cicle CI
